@@ -10,7 +10,7 @@
 
    # Additional Authors:
 
-   # <your GitHub username>
+   # <Vaughn901>
 
    # Input:
 
